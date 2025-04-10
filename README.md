@@ -30,7 +30,7 @@ A simple yet powerful desktop-based **Expense Tracker Application** built using 
 ### 🔧 Manual Setup
 
  1. Clone the repository
-git clone https://github.com/yourusername/expense_tracker_app.git
+git clone https://github.com/Tvarasree/expense_tracker_app.git
 cd expense_tracker_app
 
 #### 2. Install dependencies
